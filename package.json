@@ -1,0 +1,23 @@
+{
+  "name": "redux-basic-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianbier/redux-basic-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianbier/redux-basic-tutorial/issues"
+  },
+  "homepage": "https://github.com/brianbier/redux-basic-tutorial#readme",
+  "dependencies": {
+    "react-redux": "^5.0.1",
+    "redux": "^3.6.0"
+  }
+}
